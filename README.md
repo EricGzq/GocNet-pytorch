@@ -1,2 +1,2 @@
 # GocNet-pytorch
-The code will be published after the paper is accepted.
+The code will be released after the paper has been accepted.
