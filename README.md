@@ -3,7 +3,7 @@
 Zhiqing Guo<sup>1</sup>, 
 Gaobo Yang<sup>1</sup>,
 Dengyong Zhang<sup>2</sup>,
-and Ming Xia<sup>1</sup></br>,
+and Ming Xia<sup>1</sup></br>
 <sup>1</sup> Hunan University, China; 
 <sup>2</sup> Changsha University of Science and Technology, China</br>
 
