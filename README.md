@@ -25,11 +25,12 @@ model = GocNet(num_classes)
 ## Citation
 Please cite our paper if the code is used in your research:
 ```
-@article{GUO2022119361,
+@article{GUO2023119361,
 title = {Rethinking gradient operator for exposing AI-enabled face forgeries},
 journal = {Expert Systems with Applications},
+volume = {215},
 pages = {119361},
-year = {2022},
+year = {2023},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2022.119361},
 url = {https://www.sciencedirect.com/science/article/pii/S095741742202379X},
